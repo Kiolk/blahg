@@ -81,8 +81,8 @@ export default defineConfig({
 								label: "Learning",
 							},
 							{
-								value: "meta",
-								label: "Meta",
+								value: "android",
+								label: "Android",
 							},
 							{
 								value: "work",
@@ -93,8 +93,8 @@ export default defineConfig({
 								label: "Personal",
 							},
 							{
-								value: "musings",
-								label: "Musings",
+								value: "developer diary",
+								label: "Developer Diary",
 							},
 						],
 					},

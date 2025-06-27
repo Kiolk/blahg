@@ -1,9 +1,7 @@
-Welcome to this blog template by [cassidoo](https://cassidoo.co)!
+Welcome to my blog!
 
-It's using Astro and TinaCMS. You can [clone it on GitHub](https://github.com/cassidoo/blahg) to use it for yourself, and see how it works! I would _love_ if you told me when you do use it, I love seeing variations on it!
+I'm Yauheni Slizh, an Android/Flutter/KMM developer, writer, and speaker. I love to investigate the world of technology and translate my vision into practical solutions. I thrive on new opportunities and enjoy tackling complex problems.
 
-The tags at the bottom of the page are dynamically generated. The more tags you use, the more tags are added to the list! Posts are simple markdown files.
+I'm based in Stockholm, Sweden, and joined this journey on September 7, 2022. You can connect with me on [LinkedIn](https://www.linkedin.com/in/yauheni-slizh-5b7a7236/).
 
-You should also check out [my newsletter](https://cassidoo.co/newsletter), or my word game [Jumblie](https://jumblie.com/?utm_campaign=blahgtmp&utm_source=github), or my [GitHub profile](https://github.com/cassidoo). Or don't. Follow your dreams.
-
-Enjoy!
+Enjoy your stay!
