@@ -8,4 +8,4 @@ tags:
 added: 2025-06-27T11:51:15.002Z
 ---
 
-It is the first note in my personal blog
+It is the first note in my personal blog![](/assets/HONY.png)
